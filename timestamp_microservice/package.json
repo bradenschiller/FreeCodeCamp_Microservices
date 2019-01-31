@@ -1,0 +1,16 @@
+{
+  "name": "timestamp_microservice",
+  "version": "1.0.0",
+  "description": "timestamp_microservice",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon"
+  },
+  "author": "braden schiller",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "nodemon": "^1.18.9"
+  }
+}
